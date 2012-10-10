@@ -1,1 +1,1 @@
-Paypal class which communicated to paypal payment gateway with IPN 
+Paypal class which communicates to paypal payment gateway using IPN 
